@@ -7,6 +7,7 @@ https://frontity-0xhsn.vercel.app/
 
 ### ⚙️  Launch a development server
 
+Create a `.env` with `WORDPRESS_APP_URL` variable pointing to your WordPress URL, use `https://test.frontity.org/` for testing/experimental data.
 ```
 npx frontity dev
 ```

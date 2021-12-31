@@ -36,7 +36,7 @@ Upload your `static` folder to a CDN and your `server.js` file to a serverless s
 - [ ] Logo Placeholder
 - [ ] Footer
 - [ ] Slideshow
-- [ ] Socail Media Share Widget for Articls
+- [ ] Socail Media Share Widget for Articles
 - [ ] Dark Mode
 - [ ] Unit Testing
 
